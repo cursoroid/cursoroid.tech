@@ -3,6 +3,24 @@ languageCode: en-us
 title: Blog by Cursoroid
 theme: PaperMod
 
+params:
+  homeInfoParams:
+    Title: Hello there People!
+    Content: I'm Prathamesh Mudgale. Welcome to my blog, here you can read and learn about may interesting things related to computers and programming... 
+
+  socialIcons:
+    - name: github
+      url: "https://www.instagram.com/prathammudgale/"
+    - name: instagram
+      url: "https://www.instagram.com/prathammudgale/"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/prathameshmudgale/"
+
+  ShowBreadCrumbs: true
+  ShowShareButoons: true
+  ShowPostNavLinks: true
+  defaultTheme: auto
+
 menu: 
   main:
     - identifier: categories
