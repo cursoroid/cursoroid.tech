@@ -5,7 +5,6 @@ draft: false
 cover:
   image: https://res.cloudinary.com/dfrpcqahh/image/upload/f_auto,q_auto/cover1
   alt: Cover image with laptop on a table
-  caption: Code
 tags:
   - tutorial
   - coding
