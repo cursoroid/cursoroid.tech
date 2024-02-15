@@ -1,4 +1,4 @@
-baseURL: "https://cursoroid-tech.vercel.app/"
+baseURL: "https://www.cursoroid.tech/"
 languageCode: en-us
 title: Blog by Cursoroid
 theme: PaperMod
@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: Hello there People!
-    Content: I'm Prathamesh Mudgale. Welcome to my blog, here you can read and learn about may interesting things related to computers and programming... 
+    Content: I'm Prathamesh Mudgale. Welcome to my blog, here you can read and learn about many interesting things related to computers and programming... 
 
   socialIcons:
     - name: github
